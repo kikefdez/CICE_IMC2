@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Calculadora IMC</string>
+    <string name="Introduccion">El índice de masa corporal es la relación entre el peso y la estatura del individuo.\nPermite calcular si tiene el peso correcto
+    </string>
+    <string name="Instrucciones">Por favor, indique cuales son sus valores de altura y peso.</string>
+    <string name="Altura">Altura</string>
+    <string name="Peso">Peso</string>
+    <string name="Calcular">Calcular</string>
+
+    <string name="respDesnutrido">Desnutrido</string>
+    <string name="respBajoPeso">Bajo Peso</string>
+    <string name="respNormal">Normal</string>
+    <string name="respSobrePeso">Sobrepeso</string>
+    <string name="respObeso">Obeso</string>
+    <string name="respError">Lo sentimos, los datos introducidos no son correctos</string>
+
+    <string name="respErrorAltura">Lo sentimos, es necesario que introduzca la altura.</string>
+    <string name="respErrorPeso">Lo sentimos, les necesario que introduzca el peso.</string>
+    <string name="respErrorAmbos">Lo sentimos, es necesario que introduzca ambos datos.</string>
+
+    <string name="Descripcion">Desc</string>
+    <string name="cabeceraIndice">Ha obtenido un valor de </string>
+</resources>
